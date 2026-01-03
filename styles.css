@@ -1,0 +1,12 @@
+.header
+        {
+            background-color: navy;
+            color: white;
+            padding-inline: 10px;
+
+        }
+        .footer
+        {
+            background-color: gray;
+            color: white;
+        }
